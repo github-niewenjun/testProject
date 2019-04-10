@@ -1,5 +1,1 @@
-Conflicts reserved:
-
-	branch-AAAAAAAAAtxt
-	
-	add some information.
+branch-BBBBBBBBB
