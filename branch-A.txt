@@ -1,7 +1,5 @@
 Conflicts reserved:
 
 	branch-AAAAAAAAAtxt
-
-	modify AAAAAAAAAAA
-
-	modify AAAAAAAAAAA one more.
+	
+	add some information.
