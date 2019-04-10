@@ -1,4 +1,3 @@
-this is branch BBBBBBBBBB.
+Conflicts reserved:
 
-
-commit second.
+	branch-A.txt
