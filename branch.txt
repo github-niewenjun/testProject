@@ -2,6 +2,6 @@ branch-A
 branch-B
 
 
-A 解决冲突。提交并推送
+A修改代码
 
 
